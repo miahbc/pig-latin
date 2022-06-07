@@ -1,5 +1,5 @@
 // Rewrite this in Unit Test
-
+from pigLatin import pigLatin
 var pig = require("./pigLatin");
 
 console.log("translates a word beginning with a vowel:");
